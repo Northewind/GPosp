@@ -1,5 +1,5 @@
 PROCD=tests
-ORIGF=$(PROCD)/VL500_orig
+ORIGF=$(PROCD)/VL300_orig
 PROCF=$(PROCD)/gposp_tmp
 OUTF=$(PROCD)/gposp_out
 
